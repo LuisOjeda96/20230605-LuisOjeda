@@ -1,0 +1,164 @@
+    1  git --version
+    2  cd Escritorio
+    3  ls
+    4  cd OneDrive
+    5  ls
+    6  cd Escritorio
+    7  ls
+    8  cd Programa One
+    9  cd Programa
+   10  cd
+   11  cd OneDrive/Escritorio
+   12  ls
+   13  cd 'Programa One'
+   14  ls
+   15  cd Git-GiHub
+   16  cd Git-GitHub
+   17  ls
+   18  git init
+   19  git status
+   20  git add .
+   21  git status
+   22  git commit -m "Creando archivo Index.html con lista de cursos"
+   23  git config --global user.email "luuuisadrian@gmail.com"
+   24  git config --global user.name "luis ojeda"
+   25  git commit -m "Creando archivo Index.html con lista de cursos"
+   26  git status
+   27  git add Index.html
+   28  git commit -m "Arreglando el acento en el curso Integracion Continua"
+   29  git log
+   30  git log --help
+   31  clear
+   32  cd..
+   33  ls
+   34  cdOneDrive
+   35  cd OneDrive
+   36  ls
+   37  cd Escritorio/'Programa One'
+   38  ls
+   39  cd Git-GitHub/
+   40  mkdir servidor
+   41  cd servidor
+   42  git init --bare
+   43  cd..
+   44  cd ..
+   45  mkdir luis
+   46  cd luis
+   47  clear
+   48  git remote add C:\Users\USER\OneDrive\Escritorio\Programa One\Git-GitHub\servidor~
+   49  git remote add servidorlocal C:/Users/USER/OneDrive/Escritorio/Programa One/Git-GitHub/servidor/
+   50  git remote add servidorlocal C:\Users\USER\OneDrive\Escritorio\Programa One\Git-GitHub\servidor
+   51  git remote add servidorlocal C:/Users/USER/OneDrive/Escritorio/Programa One/Git-GitHub/servidor/
+   52  clear
+   53  git remote
+   54  git remote add servidor local
+   55  git remote
+   56  git remote remove sermidor
+   57  gir remote help
+   58  git remote add servidorlocal C:/Users/USER/OneDrive/Escritorio/Programa One/Git-GitHub/servidor/
+   59  git remote -v
+   60  git init --bare
+   61  cd ..
+   62  cd servidor
+   63  git init --bare
+   64  cd ..
+   65  cd luis
+   66  git remote
+   67  git remote add servidorlocal C:/Users/USER/OneDrive/Escritorio/Programa One/Git-GitHub/servidor/
+   68  git remote
+   69  git remote add servidorlocal
+   70  git remote
+   71  git remote add servidorlocall
+   72  git remote -v
+   73  git remote add servidor C:/Users/USER/OneDrive/Escritorio/Programa One/Git-GitHub/servidor/
+   74  cd OneDrive/Escritorio/'Programa One'
+   75  ls
+   76  cd Git-GitHub/
+   77  mkdir servidor
+   78  gir remote
+   79  git remote
+   80  git remote rename
+   81  git remote rename servidor servidorlocal
+   82  git remore
+   83  git remote
+   84  git remote rm
+   85  git remote rm servidorlocal
+   86  git remote
+   87  cd servidor
+   88  clear
+   89  git init --bare
+   90  git remote
+   91  git remote add servidorlocal C:/Users/USER/OneDrive/Escritorio/Programa One/Git-GitHub/servidor/
+   92  git remote add servidorlocal
+   93  git remote add servidorlocal C:/Users/USER/OneDrive/Escritorio/Programa One/Git-GitHub/servidor/
+   94  cd
+   95  cd OneDrive/Escritorio/'Programa One'
+   96  cd Git-GitHub/
+   97  cd luis
+   98  git remote add servidorlocal C:/Users/USER/OneDrive/Escritorio/'Programa One'/Git-GitHub/servidor/
+   99  git remote
+  100  clear
+  101  git remote -v
+  102  cd ..
+  103  mkdir Ana
+  104  cd Ana
+  105  clear
+  106  git clone /C/Users/USER/OneDrive/Escritorio/'Programa One'/Git-GitHub/servidor/ proyecto
+  107  clear
+  108  cd ..
+  109  cd Luis
+  110  clear
+  111  git remore
+  112  git remote
+  113  clear
+  114  git push servidorlocal master
+  115  clear
+  116  cd ..
+  117  cd Ana/proyecto/
+  118  git remote
+  119  git remote rename origin local
+  120  git remote
+  121  git remote rename local servidorlocal
+  122  git remote
+  123  git pull servidorlocal master
+  124  ls
+  125  git status
+  126  git add Index.html
+  127  git commit -m "Renombrando curso de integracion continua"
+  128  git push servidorlocal master
+  129  cd ../..
+  130  cd luis/
+  131  git pull servidorlocal master
+  132  git log -p
+  133  clear
+  134  git remote add origin https://github.com/LuisOjeda96/alura-git.git
+  135  git push origin master
+  136  touch comandos.txt main.js index.html
+  137  git add .
+  138  git commit -m "commit 01 de Luis Ojeda"
+  139  git push
+  140  git push origin main
+  141  git checkout -b <nombre-de-tu-rama>
+  142  git checkout -b feature
+  143  mkdir Hardware Software SeguridadInformatica
+  144  cd Hardware/
+  145  touch resumen.txt
+  146  cd..
+  147  cd ..
+  148  cd Software/
+  149  touch resumen.txt
+  150  cd ..
+  151  cd SeguridadInformatica/
+  152  touch resumen.txt
+  153  git add .
+  154  git commit -m "commit 02 de Luis Ojeda"
+  155  git push origin feature
+  156  git add .
+  157  cd ..
+  158  git add .
+  159  git commit -m "commit 03 de Luis Ojeda"
+  160  git push origin feature
+  161  git checkout main
+  162  mv main.js resumenHardware.txt
+  163  mv index.html resumenSoftware.txt
+  164  history

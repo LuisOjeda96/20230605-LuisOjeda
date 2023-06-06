@@ -1,0 +1,3 @@
+Sistema operativo (ejemplo: Windows, macOS, Linux)
+Navegador web (ejemplo: Google Chrome, Mozilla Firefox, Safari)
+Suite de oficina (ejemplo: Microsoft Office, Google Workspace, LibreOffice)
